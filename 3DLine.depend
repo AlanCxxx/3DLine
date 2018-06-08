@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1528456099 source:/home/alanx/Documents/AlanC_Ccode_Mint/3DLine/3DLine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	"/usr/include/graphics.h"
+
+1509004754 /usr/include/graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	<unistd.h>
+	<X11/Xlib.h>
+	<X11/X.h>
+	<X11/Xutil.h>
+	<X11/cursorfont.h>
+	<X11/keysym.h>
+
